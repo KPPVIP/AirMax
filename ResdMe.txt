@@ -1,0 +1,44 @@
+
+                                                                           TiMaXx
+
+Bonjour pour pouvoire stream des vetement dans votre server five M il vous faut tout d'abord etre suporter five c'est dire avoir l'abonement prenium fiveM
+
+ensuit il vous suffit de d'ajouter la ressource a votre dossier dans votre server 
+
+et de start la ressource "start air max" dans votre server.cfg
+
+-------------------------------------------------------------
+
+hello to power stream clothes in your server five M you must first be suporte five is to say have the abonement prenium fiveM
+
+then you just add the resource to your folder in your server
+
+and start the resource "start air max" in your server.cfg
+
+--------------------------------------------------------------
+
+pour gta5 
+
+aller directement au chyemin suivant 
+
+pour le mpmale 
+ \update\x64\dlcpacks\mplowrider\dlc.rpf\x64\models\cdimages\mplowrider_female.rpf\mp_m_freemode_01_mp_m_lowrider_01 
+
+ et au chemin suivant pour mp femal
+\update\x64\dlcpacks\mplowrider\dlc.rpf\x64\models\cdimages\mplowrider_female.rpf\mp_f_freemode_01_mp_f_lowrider_01 
+
+et remplacer le fichier feet_000_u.ydd et feet_diff_000_a_uni.ytd de A a E
+
+----------------------------------------------------------------
+
+for gta5
+
+go directly to the next chyemin
+
+for the mpmale
+\update\x64\dlcpacks\mplowrider\dlc.rpf\x64\models\cdimages\mplowrider_female.rpf\mp_m_freemode_01_mp_m_lowrider_01 
+
+and the following path for mp femal
+\update\x64\dlcpacks\mplowrider\dlc.rpf\x64\models\cdimages\mplowrider_female.rpf\mp_f_freemode_01_mp_f_lowrider_01 
+
+and replace the files feet_000_u.ydd and feet_diff_000_a_uni.ytd A / E
